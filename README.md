@@ -1,42 +1,29 @@
-# 01 HTML, CSS, and Git: Code Refactor
+#Horiseon Marketing Team website update
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
+## Welcome to my First Challenge!
 
-For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it.
+I am Michael Mizell, a novice computer programmer who has had a couple years of programming behind my belt. I have worked with primarily C++ in my journey through programming but it hasn't stopped there. I have also worked on some JavaScript. I hope to show greateness when it comes to my programming knowledge and skills!
 
-To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+## Challenge
 
-## User Story
+In this first challenge there was the need to make the code more semantic, to add descriptions to photos for people with visual impairments, and to make sure things like the title were cleaned up.
+We also needed to be able to deploy the github website to show off the project properly.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
-```
 
-## Acceptance Criteria
+### Goals
 
-```
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+- I hope to accomplish a good understanding of the basic semantic terms that can be used in html
+- Learn how to give a clear description of photos
+- Read and understand the structure of any basic website when looking at its html
+- Work with github more to understand how to use it to its full potential
 
-## Review
 
-You are required to submit the following for review:
+### Final Thoughts
 
-* The URL of the deployed application.
+Working with html and css is fun. I can't wait to get into JavaScript and learning how to implement that into a website. The possibilities are endless with JavaScript.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+### Contact Info
+
+[Email Here](mailto:mikey.mizell.2016@gmail.com) | 
+[LinkedIn Profile](https://www.linkedin.com/in/michael-mizell-ii-803861141/)
