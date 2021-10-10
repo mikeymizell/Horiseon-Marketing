@@ -2,7 +2,7 @@
 
 ## Welcome to my First Challenge!
 
-I am Michael Mizell, a novice computer programmer who has had a couple years of programming behind my belt. I have worked with primarily C++ in my journey through programming but it hasn't stopped there. I have also worked on some JavaScript. I hope to show greateness when it comes to my programming knowledge and skills!
+I am Michael Mizell, a novice computer programmer who has had a couple years of programming behind my belt. I have worked with primarily C++ in my journey through programming but it hasn't stopped there. I have also worked on some Java. I hope to show greateness when it comes to my programming knowledge and skills!
 
 ## Challenge
 
