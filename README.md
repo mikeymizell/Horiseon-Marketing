@@ -1,5 +1,3 @@
-#Horiseon Marketing Team website update
-
 ## Welcome to my First Challenge!
 
 I am Michael Mizell, a novice computer programmer who has had a couple years of programming behind my belt. I have worked with primarily C++ in my journey through programming but it hasn't stopped there. I have also worked on some Java. I hope to show greateness when it comes to my programming knowledge and skills!
@@ -21,6 +19,11 @@ We also needed to be able to deploy the github website to show off the project p
 ### Final Thoughts
 
 Working with html and css is fun. I can't wait to get into JavaScript and learning how to implement that into a website. The possibilities are endless with JavaScript.
+
+## Project Preview
+[GitHub Deployed Page](https://mikeymizell.github.io/Horiseon-Marketing/)
+![Website header](assets/images/header-ss.png)
+![Website information](assets/images/info-ss.png)
 
 
 ### Contact Info
